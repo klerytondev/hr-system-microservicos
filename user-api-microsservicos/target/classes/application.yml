@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: model-unit-tests
+    name: user-api-microsservicos
 
 management:
   endpoints:
